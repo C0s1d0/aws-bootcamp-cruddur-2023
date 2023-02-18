@@ -1,4 +1,4 @@
-tasks:
+aws tasks:
   - name: aws-cli
     env:
       AWS_CLI_AUTO_PROMPT: on-partial
