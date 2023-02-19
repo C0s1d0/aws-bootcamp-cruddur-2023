@@ -2,7 +2,6 @@
 
 ## Required Homework/Tasks
 
-##AWS Budgets
 !.[AWS Budgets].(assets/budget.png)
 
 ##AWS Budget Alerts
