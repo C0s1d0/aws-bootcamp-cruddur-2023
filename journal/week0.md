@@ -3,7 +3,7 @@
 ## Required Homework/Tasks
 
 ##AWS Budgets
-Link Asset Here
+![AWS Budgets] (assets/budget.png)
 
 ##AWS Budget Alerts
 Link Asset Here
